@@ -15,7 +15,7 @@ Node.JS
 ## Installation
 ```bash
 # Download PywindUI
-git clone https://github.com/apocordi/pywindui
+git clone https://github.com/apocordi/pywindui .
 
 # Create and activate a virtual environment
 python -m venv venv
